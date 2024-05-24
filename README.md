@@ -15,17 +15,17 @@ This diagram consists of the classes that will be present throughout our project
 
  ## Screenshots
  > ![1](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/1.png)
- > ![2](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/combat1.png)
- > ![3](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/combat2.png)
- > ![4](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/2.png)
- > ![5](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/3.png)
- > ![6](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/4.png)
- > ![7](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/5.png)
- > ![8](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/6.png)
- > ![9](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/7.png)
- > ![10](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/tests.png)
- > ![11](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/mainMemcheck.png)
- > ![12](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/testMemcheck.png)
+ > ![2](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/combat1.png)
+ > ![3](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/combat2.png)
+ > ![4](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/2.png)
+ > ![5](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/3.png)
+ > ![6](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/4.png)
+ > ![7](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/5.png)
+ > ![8](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/6.png)
+ > ![9](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/7.png)
+ > ![10](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/tests.png)
+ > ![11](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/mainMemcheck.png)
+ > ![12](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/testMemcheck.png)
  ## Installation/Usage
 
  Using git, clone the repository, and `cd` into it.
