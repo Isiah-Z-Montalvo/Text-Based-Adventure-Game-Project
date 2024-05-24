@@ -14,18 +14,18 @@ This diagram consists of the classes that will be present throughout our project
  
 
  ## Screenshots
- > ![1](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/1.png)
- > ![2](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/combat1.png)
- > ![3](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/combat2.png)
- > ![4](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/2.png)
- > ![5](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/3.png)
- > ![6](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/4.png)
- > ![7](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/5.png)
- > ![8](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/6.png)
- > ![9](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/7.png)
- > ![10](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/tests.png)
- > ![11](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/mainMemcheck.png)
- > ![12](https://github.com/cs100/final-project-kchen329-zhu052-imont036-cshir004/blob/master/testMemcheck.png)
+ > ![1](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/main/1.png)
+ > ![2](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/combat1.png)
+ > ![3](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/combat2.png)
+ > ![4](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/2.png)
+ > ![5](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/3.png)
+ > ![6](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/4.png)
+ > ![7](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/5.png)
+ > ![8](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/6.png)
+ > ![9](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/7.png)
+ > ![10](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/tests.png)
+ > ![11](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/mainMemcheck.png)
+ > ![12](https://github.com/Isiah-Z-Montalvo/Text-Based-Adventure-Game-Project/blob/master/testMemcheck.png)
  ## Installation/Usage
 
  Using git, clone the repository, and `cd` into it.
